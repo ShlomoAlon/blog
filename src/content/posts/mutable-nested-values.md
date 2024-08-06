@@ -3,7 +3,7 @@
   pubDate: 2024-08-05
   categories: []
   description: 'Simple way of creating mutable values for a nested functions'
-  ---
+---
 
 The traditional way of doing this is with a list like this.
 
