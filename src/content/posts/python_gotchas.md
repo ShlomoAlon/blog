@@ -1,8 +1,8 @@
 ---
-  title: python gotchas
+  title: python_gotchas
   pubDate: 2024-08-20
   categories: []
-  description: 'A couple of annoying python footguns I've stumbled upon'
+  description: 'a couple of annoying python footguns I''ve stumbled upon'
 ---
 Every language has a couple of footguns that you will eventually accidentally trigger. And while I love Python, it shows it's age in some really annoying ways. In the following code samples try guessing what the output will be.
 
